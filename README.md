@@ -58,6 +58,6 @@ This repo goes through the process of setting up Darkflow, and using it to train
 </pre>
 
 ## Outputs
-![Pic1](https://github.com/rdutta1999/Car-Damage-Detection-Darkflow/tree/master/test_imgs_output/download.png?raw=true)
-![Pic2](https://github.com/rdutta1999/Car-Damage-Detection-Darkflow/tree/master/test_imgs_output/download (1).png?raw=true)
-![Pic3](https://github.com/rdutta1999/Car-Damage-Detection-Darkflow/tree/master/test_imgs_output/download (2).png?raw=true)
+![Pic1](/test_imgs_output/download.png?raw=true)
+![Pic2](/test_imgs_output/download1.png?raw=true)
+![Pic3](/test_imgs_output/download2.png?raw=true)
