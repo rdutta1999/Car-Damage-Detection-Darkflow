@@ -61,3 +61,24 @@ This repo goes through the process of setting up Darkflow, and using it to train
 ![Pic1](/test_imgs_output/download.png?raw=true)
 ![Pic2](/test_imgs_output/download1.png?raw=true)
 ![Pic3](/test_imgs_output/download2.png?raw=true)
+
+## References
+- https://github.com/thtrieu/darkflow
+
+
+- https://github.com/pjreddie/darknet
+
+
+- https://towardsdatascience.com/yolov2-to-detect-your-own-objects-soccer-ball-using-darkflow-a4f98d5ce5bf
+
+
+- https://github.com/deep-diver/Soccer-Ball-Detection-YOLOv2
+
+
+- https://github.com/deep-diver/Object-Detection-YOLOv2-Darkflow
+
+
+- https://medium.com/@jonathan_hui/map-mean-average-precision-for-object-detection-45c121a31173
+
+
+- https://github.com/rafaelpadilla/Object-Detection-Metrics
