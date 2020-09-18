@@ -3,7 +3,7 @@
 This repo goes through the process of setting up Darkflow, and using it to train a custom object detection model. Here, I have trained a Car Damage Detection model, that identifies Scratches and Dents and draws a bounding box around it. **Training.ipynb** contains the source code, and the trained model weights can be found [here](https://drive.google.com/drive/folders/1bc0z6HkcAEBRRpk0Y0UGTyjCxe9xfG2K?usp=sharing). 
 
 ## Setting Up:-
-1) Create a new python/anaconda enviroment (optional but recommended).
+1) Create a new Python/Anaconda enviroment (optional but recommended).
 
 2) Install the necessary packages:-
     - ```conda install numpy pandas matplotlib opencv cython jupyter```
