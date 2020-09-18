@@ -36,7 +36,7 @@ This repo goes through the process of setting up Darkflow, and using it to train
      ├─── labels.txt
      ├─── Training.ipynb 
      ├─── yolo.weights
-     ├─── data
+     └─── data
           ├─── annotations
                ├─── annot1.xml
                ├─── annot2.xml
