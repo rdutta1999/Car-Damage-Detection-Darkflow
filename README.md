@@ -1,5 +1,6 @@
 # Car-Damage-Detection-Darkflow
 
+## Introduction
 This repository goes through the process of setting up Darkflow, and using it to train a custom object detection model. Here, I have trained a Car Damage Detection model, that identifies Scratches and Dents and draws a bounding box around it. 
 
 The dataset can be downloaded from [here](https://www.kaggle.com/mohitagarwal816/car-damage).
